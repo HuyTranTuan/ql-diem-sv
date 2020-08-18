@@ -1,0 +1,121 @@
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.frmMainGiangVien.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.frmMainSinhVien.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.frmDangKy.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Properties.Resources.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmMainTruong.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmNhapGiangVien.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmNhapMonHoc.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmNhapSinhVien.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.csproj.GenerateResource.cache
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.csproj.CoreCompileInputs.cache
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\bin\Debug\ThiTracNghiem.exe.config
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\bin\Debug\ThiTracNghiem.exe
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\bin\Debug\ThiTracNghiem.pdb
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.exe
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.pdb
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.csprojAssemblyReference.cache
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmNhapKhoa.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmNhapLop.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.frmGVNhapDe.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.frmSVThi.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.frmGVChuanBiThi.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.btnThoat.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.frmDangNhap.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.frmChonMonThi.resources
+D:\Version 3\Cơ sở dữ liệu phân tán\DA_N2\DA_N2\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.xemketqua.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.frmChonMonThi.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.btnThoat.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.frmGVChuanBiThi.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.frmGVNhapDe.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.frmMainGiangVien.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.frmMainSinhVien.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.frmSVThi.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.CoSo.xemketqua.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.frmDangNhap.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Properties.Resources.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmMainTruong.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmNhapLop.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmNhapMonHoc.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmNhapSinhVien.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.csproj.GenerateResource.cache
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.exe
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.pdb
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ThiTracNghiem.exe.config
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ThiTracNghiem.exe
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ThiTracNghiem.pdb
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmPhanQuyen.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmNhapDiem.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.csprojAssemblyReference.cache
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmInBangDiemTongKet.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmInPhieuDiem.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmInBangDiem.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.Truong.frmInDSSV.resources
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\RdlCompile.cache
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\RdlCompile.compiled
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\EnvDTE.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\stdole.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\TUANHUNG-PC\Desktop\ThiTracNghiem\ThiTracNghiem\obj\Debug\ThiTracNghiem.csproj.CopyComplete
